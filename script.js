@@ -194,3 +194,5 @@ function getPrediction() {
 function lul() {
     console.info("%cs.jon mencelah ᕦ( ͡° ͜ʖ ͡°)ᕤ", "background-color: blue;padding: 3px;font-size: 12px;font-weight: 800;");
 }
+
+window.addEventListener("load", lul, false);
